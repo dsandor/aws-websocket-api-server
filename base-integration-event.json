@@ -1,0 +1,18 @@
+{
+  "requestContext": {
+    "routeKey": "graphql",
+    "messageId": "YZo7reuioAMAdhA=",
+    "eventType": "MESSAGE",
+    "extendedRequestId": "YZo7rHEOIAMEcBA=",
+    "messageDirection": "IN",
+    "stage": "v1",
+    "identity": {
+      "sourceIp": "12.148.183.22"
+    },
+    "requestId": "YZo7rHEOIAMEcBA=",
+    "domainName": "aaaaaaaaa.execute-api.us-east-1.amazonaws.com",
+    "connectionId": "YZo6metXIAMAdhA=",
+    "apiId": "aaaaaaaaa"
+  },
+  "isBase64Encoded": false
+}
